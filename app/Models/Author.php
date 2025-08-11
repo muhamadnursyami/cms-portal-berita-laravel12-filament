@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Author extends Model
 {
-    protected $fillabel = [
+    protected $fillable = [
         'name',
         'username',
         'avatar',

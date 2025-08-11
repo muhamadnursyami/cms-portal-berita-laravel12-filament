@@ -59,3 +59,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Command yang di Pakai 
+1. php artisan make:filament-resource Author  
+(Untuk membuat fitur Author Polos Not CRUD, Namanya itu berdasarkan Model yg telah di buat) 
+2. php artisan storage:link   
+(Untuk Handle Upload Image)
+3. php artisan make:filament-resource --generate News 
+(Untuk membuat fitur News Lengkap CRUD Fungsional)
