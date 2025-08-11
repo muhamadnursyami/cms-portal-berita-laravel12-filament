@@ -13,7 +13,7 @@ class News extends Model
         'slug',
         'thumbnail',
         'content',
-        
+        'is_featured'
     ];
 
 // Definisikan relasi dimana tabel author relasi

@@ -68,3 +68,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 (Untuk Handle Upload Image)
 3. php artisan make:filament-resource --generate News 
 (Untuk membuat fitur News Lengkap CRUD Fungsional)
+4. php artisan make:controller AuthorController
+(Untuk membuat controler)
